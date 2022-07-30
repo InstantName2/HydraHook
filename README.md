@@ -8,4 +8,4 @@ Credits to InstantName (myself)
 A simple EasyAntiCheat Hydra Hook
 
 
-[![HitCount](https://hits.dwyl.com/InstantName2/HydraHook.svg?style=flat-square&show=unique)](http://hits.dwyl.com/InstantName2/HydraHook)
+[![HitCount](https://hits.dwyl.com/InstantName2/HydraHook.svg?style=flat-square)](http://hits.dwyl.com/InstantName2/HydraHook)
